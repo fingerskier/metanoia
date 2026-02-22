@@ -34,4 +34,9 @@ MattLib/
 │       ├── Syllogism.lean      -- aristotelian logic
 │       ├── Modal.lean          -- necessity, possibility
 │       └── Ethics.lean         -- framework modeling
+├── Bio/
+│   ├── Sequence.lean      -- DNA/RNA/protein alphabet, complement, reverse complement
+│   ├── Alignment.lean     -- scoring, optimality properties
+│   ├── Pipeline.lean      -- composition of transformations, invariant preservation
+│   └── Dosage.lean        -- pharmacogenomic safety bounds
 ```
