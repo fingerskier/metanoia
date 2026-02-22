@@ -1,6 +1,7 @@
 # metanoia
 LEAN philosophical proofs
 
+```
 MattLib/
 ├── lakefile.lean
 ├── MattLib.lean
@@ -33,3 +34,4 @@ MattLib/
 │       ├── Syllogism.lean      -- aristotelian logic
 │       ├── Modal.lean          -- necessity, possibility
 │       └── Ethics.lean         -- framework modeling
+```
