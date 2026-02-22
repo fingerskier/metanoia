@@ -1,0 +1,2 @@
+# metanoia
+LEAN philosophical proofs
