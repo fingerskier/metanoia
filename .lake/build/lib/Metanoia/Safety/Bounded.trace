@@ -1,0 +1,29 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=.\\.\\.lake\\build\\lib PATH c:\\Users\\finge\\.elan\\toolchains\\leanprover--lean4---v4.16.0\\bin\\lean.exe .\\.\\.\\.\\Metanoia\\Safety\\Bounded.lean -R .\\.\\.\\. -o .\\.\\.lake\\build\\lib\\Metanoia\\Safety\\Bounded.olean -i .\\.\\.lake\\build\\lib\\Metanoia\\Safety\\Bounded.ilean -c .\\.\\.lake\\build\\ir\\Metanoia\\Safety\\Bounded.c --json",
+   "level": "trace"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Safety\\Bounded.lean:26:4: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Safety\\Bounded.lean:26:4: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Safety\\Bounded.lean:33:4: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Safety\\Bounded.lean:33:4: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Safety\\Bounded.lean:41:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Safety\\Bounded.lean:64:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Safety\\Bounded.lean:69:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Safety\\Bounded.lean:83:8: declaration uses 'sorry'",
+   "level": "warning"}],
+ "depHash": "6085565831103201858"}

@@ -1,0 +1,44 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=.\\.\\.lake\\build\\lib PATH c:\\Users\\finge\\.elan\\toolchains\\leanprover--lean4---v4.16.0\\bin\\lean.exe .\\.\\.\\.\\Metanoia\\List\\Basic.lean -R .\\.\\.\\. -o .\\.\\.lake\\build\\lib\\Metanoia\\List\\Basic.olean -i .\\.\\.lake\\build\\lib\\Metanoia\\List\\Basic.ilean -c .\\.\\.lake\\build\\ir\\Metanoia\\List\\Basic.c --json",
+   "level": "trace"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\List\\Basic.lean:22:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\List\\Basic.lean:27:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\List\\Basic.lean:33:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\List\\Basic.lean:43:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\List\\Basic.lean:48:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\List\\Basic.lean:58:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\List\\Basic.lean:63:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\List\\Basic.lean:70:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\List\\Basic.lean:80:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\List\\Basic.lean:86:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\List\\Basic.lean:93:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\List\\Basic.lean:103:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\List\\Basic.lean:109:8: declaration uses 'sorry'",
+   "level": "warning"}],
+ "depHash": "7701165299816223586"}

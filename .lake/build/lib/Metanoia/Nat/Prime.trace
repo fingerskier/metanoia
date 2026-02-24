@@ -1,0 +1,5 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=.\\.\\.lake\\build\\lib PATH c:\\Users\\finge\\.elan\\toolchains\\leanprover--lean4---v4.16.0\\bin\\lean.exe .\\.\\.\\.\\Metanoia\\Nat\\Prime.lean -R .\\.\\.\\. -o .\\.\\.lake\\build\\lib\\Metanoia\\Nat\\Prime.olean -i .\\.\\.lake\\build\\lib\\Metanoia\\Nat\\Prime.ilean -c .\\.\\.lake\\build\\ir\\Metanoia\\Nat\\Prime.c --json",
+   "level": "trace"}],
+ "depHash": "4816689380716501017"}

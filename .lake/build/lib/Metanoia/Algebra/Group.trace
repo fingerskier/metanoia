@@ -1,0 +1,50 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=.\\.\\.lake\\build\\lib PATH c:\\Users\\finge\\.elan\\toolchains\\leanprover--lean4---v4.16.0\\bin\\lean.exe .\\.\\.\\.\\Metanoia\\Algebra\\Group.lean -R .\\.\\.\\. -o .\\.\\.lake\\build\\lib\\Metanoia\\Algebra\\Group.olean -i .\\.\\.lake\\build\\lib\\Metanoia\\Algebra\\Group.ilean -c .\\.\\.lake\\build\\ir\\Metanoia\\Algebra\\Group.c --json",
+   "level": "trace"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Algebra\\Group.lean:42:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Algebra\\Group.lean:48:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Algebra\\Group.lean:54:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Algebra\\Group.lean:60:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Algebra\\Group.lean:65:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Algebra\\Group.lean:70:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Algebra\\Group.lean:75:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Algebra\\Group.lean:86:0: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Algebra\\Group.lean:86:0: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Algebra\\Group.lean:86:0: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Algebra\\Group.lean:96:0: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Algebra\\Group.lean:96:0: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Algebra\\Group.lean:96:0: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Algebra\\Group.lean:115:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Algebra\\Group.lean:121:8: declaration uses 'sorry'",
+   "level": "warning"}],
+ "depHash": "11954620295799637591"}

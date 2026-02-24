@@ -1,0 +1,29 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=.\\.\\.lake\\build\\lib PATH c:\\Users\\finge\\.elan\\toolchains\\leanprover--lean4---v4.16.0\\bin\\lean.exe .\\.\\.\\.\\Metanoia\\Logic\\Quantifiers.lean -R .\\.\\.\\. -o .\\.\\.lake\\build\\lib\\Metanoia\\Logic\\Quantifiers.olean -i .\\.\\.lake\\build\\lib\\Metanoia\\Logic\\Quantifiers.ilean -c .\\.\\.lake\\build\\ir\\Metanoia\\Logic\\Quantifiers.c --json",
+   "level": "trace"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Logic\\Quantifiers.lean:21:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Logic\\Quantifiers.lean:27:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Logic\\Quantifiers.lean:38:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Logic\\Quantifiers.lean:43:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Logic\\Quantifiers.lean:49:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Logic\\Quantifiers.lean:55:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Logic\\Quantifiers.lean:66:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Logic\\Quantifiers.lean:72:8: declaration uses 'sorry'",
+   "level": "warning"}],
+ "depHash": "162103522018597896"}

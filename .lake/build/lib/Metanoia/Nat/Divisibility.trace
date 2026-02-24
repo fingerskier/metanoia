@@ -1,0 +1,38 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=.\\.\\.lake\\build\\lib PATH c:\\Users\\finge\\.elan\\toolchains\\leanprover--lean4---v4.16.0\\bin\\lean.exe .\\.\\.\\.\\Metanoia\\Nat\\Divisibility.lean -R .\\.\\.\\. -o .\\.\\.lake\\build\\lib\\Metanoia\\Nat\\Divisibility.olean -i .\\.\\.lake\\build\\lib\\Metanoia\\Nat\\Divisibility.ilean -c .\\.\\.lake\\build\\ir\\Metanoia\\Nat\\Divisibility.c --json",
+   "level": "trace"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Nat\\Divisibility.lean:23:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Nat\\Divisibility.lean:28:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Nat\\Divisibility.lean:33:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Nat\\Divisibility.lean:39:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Nat\\Divisibility.lean:44:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Nat\\Divisibility.lean:49:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Nat\\Divisibility.lean:62:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Nat\\Divisibility.lean:67:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Nat\\Divisibility.lean:73:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Nat\\Divisibility.lean:87:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Nat\\Divisibility.lean:92:8: declaration uses 'sorry'",
+   "level": "warning"}],
+ "depHash": "1491072025568275491"}

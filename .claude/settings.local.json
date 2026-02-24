@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(lake build)",
+      "Bash(lake build -R)",
+      "Bash(lake env lean Metanoia/Nat/Divisibility.lean)",
+      "mcp__plugin_dude_dude__upsert_record"
+    ]
+  }
+}

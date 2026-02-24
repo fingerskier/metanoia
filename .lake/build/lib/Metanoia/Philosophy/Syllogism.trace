@@ -1,0 +1,38 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=.\\.\\.lake\\build\\lib PATH c:\\Users\\finge\\.elan\\toolchains\\leanprover--lean4---v4.16.0\\bin\\lean.exe .\\.\\.\\.\\Metanoia\\Philosophy\\Syllogism.lean -R .\\.\\.\\. -o .\\.\\.lake\\build\\lib\\Metanoia\\Philosophy\\Syllogism.olean -i .\\.\\.lake\\build\\lib\\Metanoia\\Philosophy\\Syllogism.ilean -c .\\.\\.lake\\build\\ir\\Metanoia\\Philosophy\\Syllogism.c --json",
+   "level": "trace"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Philosophy\\Syllogism.lean:36:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Philosophy\\Syllogism.lean:45:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Philosophy\\Syllogism.lean:54:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Philosophy\\Syllogism.lean:63:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Philosophy\\Syllogism.lean:76:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Philosophy\\Syllogism.lean:85:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Philosophy\\Syllogism.lean:124:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Philosophy\\Syllogism.lean:130:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Philosophy\\Syllogism.lean:136:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Philosophy\\Syllogism.lean:142:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Philosophy\\Syllogism.lean:155:8: declaration uses 'sorry'",
+   "level": "warning"}],
+ "depHash": "12749824336901955962"}

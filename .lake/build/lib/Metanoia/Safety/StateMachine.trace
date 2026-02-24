@@ -1,0 +1,26 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=.\\.\\.lake\\build\\lib PATH c:\\Users\\finge\\.elan\\toolchains\\leanprover--lean4---v4.16.0\\bin\\lean.exe .\\.\\.\\.\\Metanoia\\Safety\\StateMachine.lean -R .\\.\\.\\. -o .\\.\\.lake\\build\\lib\\Metanoia\\Safety\\StateMachine.olean -i .\\.\\.lake\\build\\lib\\Metanoia\\Safety\\StateMachine.ilean -c .\\.\\.lake\\build\\ir\\Metanoia\\Safety\\StateMachine.c --json",
+   "level": "trace"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Safety\\StateMachine.lean:101:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Safety\\StateMachine.lean:108:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Safety\\StateMachine.lean:114:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Safety\\StateMachine.lean:123:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Safety\\StateMachine.lean:159:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Safety\\StateMachine.lean:173:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Safety\\StateMachine.lean:179:8: declaration uses 'sorry'",
+   "level": "warning"}],
+ "depHash": "7202047137700952810"}

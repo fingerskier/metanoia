@@ -1,0 +1,23 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=.\\.\\.lake\\build\\lib PATH c:\\Users\\finge\\.elan\\toolchains\\leanprover--lean4---v4.16.0\\bin\\lean.exe .\\.\\.\\.\\Metanoia\\Logic\\Classical.lean -R .\\.\\.\\. -o .\\.\\.lake\\build\\lib\\Metanoia\\Logic\\Classical.olean -i .\\.\\.lake\\build\\lib\\Metanoia\\Logic\\Classical.ilean -c .\\.\\.lake\\build\\ir\\Metanoia\\Logic\\Classical.c --json",
+   "level": "trace"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Logic\\Classical.lean:30:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Logic\\Classical.lean:36:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Logic\\Classical.lean:41:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Logic\\Classical.lean:47:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Logic\\Classical.lean:56:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   ".\\.\\.\\.\\Metanoia\\Logic\\Classical.lean:61:8: declaration uses 'sorry'",
+   "level": "warning"}],
+ "depHash": "7637402816534725702"}
