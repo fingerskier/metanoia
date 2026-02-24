@@ -30,10 +30,10 @@ MattLib/
 │   │   ├── StateMachine.lean   -- generic verified state machines
 │   │   ├── Bounded.lean        -- bounded values that can't overflow
 │   │   └── Timeout.lean        -- timeout properties
-│   └── Philosophy/
-│       ├── Syllogism.lean      -- aristotelian logic
-│       ├── Modal.lean          -- necessity, possibility
-│       └── Ethics.lean         -- framework modeling
+│   ├── Philosophy/
+│   │   ├── Syllogism.lean      -- aristotelian logic
+│   │   ├── Modal.lean          -- necessity, possibility
+│   │   └── Ethics.lean         -- framework modeling
 ├── Bio/
 │   ├── Sequence.lean      -- DNA/RNA/protein alphabet, complement, reverse complement
 │   ├── Alignment.lean     -- scoring, optimality properties
